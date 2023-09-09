@@ -1,11 +1,15 @@
 {
   "name": "eslint-plugin-codemuse",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A comprehensive linting solution that sweeps your code clean",
   "keywords": [
     "eslint",
     "eslintplugin",
-    "eslint-plugin"
+    "eslint-plugin",
+    "eslintconfig",
+    "eslint-config",
+    "react",
+    "typescript"
   ],
   "author": "velenyx",
   "license": "MIT",
@@ -16,6 +20,9 @@
     "README.md",
     "package.json"
   ],
+  "repository": {
+    "url": "https://github.com/velenyx/eslint-plugin-codemuse.git"
+  },
   "scripts": {
     "init": "rimraf dist node_modules && npm i",
     "build": "rimraf ./dist && mkdirp ./dist && cpr ./lib/ ./dist/",
@@ -27,12 +34,20 @@
     "lint:syncpack:fix": "syncpack fix-mismatches",
     "update:eslint-docs": "eslint-doc-generator",
     "commit": "cz",
-    "release:prod": "git checkout main && git pull && npm run build && npm run pack && dotenv release-it -- -VV",
-    "prepare": "husky install"
+    "release:prod": "git checkout main && git pull && npm run build && npm run pack && dotenv release-it -- -VV"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "@release-it/bumper": "^5.1.0",
+    "@release-it/conventional-changelog": "^7.0.1",
     "@typescript-eslint/eslint-plugin": "^6.6.0",
+    "commitizen": "^4.3.0",
     "cpr": "^3.0.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "cz-git": "^1.7.1",
+    "dotenv": "^16.3.1",
+    "dotenv-cli": "^7.3.0",
     "eslint": "^8.19.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-doc-generator": "^1.0.0",
@@ -49,9 +64,13 @@
     "eslint-plugin-sonarjs": "^0.21.0",
     "eslint-plugin-testing-library": "^6.0.1",
     "eslint-plugin-unicorn": "^48.0.1",
+    "husky": "^8.0.3",
+    "markdown-toc": "^1.2.0",
     "mkdirp": "^3.0.1",
     "npm-run-all": "^4.1.5",
-    "rimraf": "^5.0.1"
+    "release-it": "^16.1.5",
+    "rimraf": "^5.0.1",
+    "syncpack": "^11.2.1"
   },
   "engines": {
     "node": "^14.17.0 || ^16.0.0 || >= 18.0.0"
