@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.1.3...v0.2.0) (2023-09-09)
+
+
+### Features
+
+* **import:** :sparkles: add alias|absolute import sort ([98a4a76](https://github.com/velenyx/eslint-plugin-codemuse/commit/98a4a7621622eea5d419469cf8814a63d421d6b7))
+
+
+### Bug Fixes
+
+* **unicorn:** :adhesive_bandage: now filename-case ignore .test and .module ([7f158fc](https://github.com/velenyx/eslint-plugin-codemuse/commit/7f158fcb049a3547b7a5a0df6d583bc5166fe16b))
+
 ## [0.1.3](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.1.2...v0.1.3) (2023-09-09)
 
 
