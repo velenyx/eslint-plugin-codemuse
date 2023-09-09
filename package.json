@@ -17,8 +17,8 @@
     "package.json"
   ],
   "scripts": {
-    "init": "rm -rf dist node_modules && npm i",
-    "build": "rm -rf ./dist && mkdir ./dist && cp -r ./lib/* ./dist",
+    "init": "rimraf dist node_modules && npm i",
+    "build": "rimraf ./dist && mkdirp ./dist && cpr ./lib/ ./dist/",
     "pack": "npm pack --pack-destination=./dist",
     "lint": "npm-run-all \"lint:*\"",
     "lint:eslint-docs": "npm-run-all \"update:eslint-docs -- --check\"",
@@ -32,6 +32,7 @@
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.6.0",
+    "cpr": "^3.0.1",
     "eslint": "^8.19.0",
     "eslint-config-prettier": "^9.0.0",
     "eslint-doc-generator": "^1.0.0",
@@ -48,7 +49,9 @@
     "eslint-plugin-sonarjs": "^0.21.0",
     "eslint-plugin-testing-library": "^6.0.1",
     "eslint-plugin-unicorn": "^48.0.1",
-    "npm-run-all": "^4.1.5"
+    "mkdirp": "^3.0.1",
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^5.0.1"
   },
   "engines": {
     "node": "^14.17.0 || ^16.0.0 || >= 18.0.0"
