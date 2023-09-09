@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.1.2...v0.1.3) (2023-09-09)
+
+
+### Documentations
+
+* :memo: update docs, add more info ([f4be895](https://github.com/velenyx/eslint-plugin-codemuse/commit/f4be8953cd8aa9def36b2bda8a97432e7f1d845a))
+
 ## [0.1.2](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.1.0...v0.1.2) (2023-09-09)
 
 

@@ -32,6 +32,8 @@ A comprehensive linting solution that sweeps your code clean. Fly through your c
 
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 <!-- tocstop -->
 
