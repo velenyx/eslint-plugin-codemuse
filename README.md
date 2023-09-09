@@ -1,3 +1,7 @@
+![GitHub CI](https://github.com/velenyx/eslint-plugin-codemuse/actions/workflows/ci.yml/badge.svg)
+[![npm version](https://badge.fury.io/js/eslint-plugin-codemuse.svg)](https://badge.fury.io/js/eslint-plugin-codemuse)
+[![HitCount](https://hits.dwyl.com/velenyx/eslint-plugin-codemuse.svg)](https://hits.dwyl.com/velenyx/eslint-plugin-codemuse)
+
 # eslint-plugin-codemuse
 
 A comprehensive linting solution that sweeps your code clean. Fly through your codebase with ease and precision!
