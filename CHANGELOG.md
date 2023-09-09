@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.1.2](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.1.0...v0.1.2) (2023-09-09)
+
+
+### Documentations
+
+* :memo: add badges to readme ([22379ff](https://github.com/velenyx/eslint-plugin-codemuse/commit/22379ff087a564910d83026b3698ed5db4d41d89))
+* :memo: update README.md add LICENSE, CONTRIBUTING, SECURITY ([cab0980](https://github.com/velenyx/eslint-plugin-codemuse/commit/cab0980134962bc69a289d4d4deb6ea3c74a74e3))
+
+
+### CI/CD
+
+* :construction_worker: add ci ([6e2a139](https://github.com/velenyx/eslint-plugin-codemuse/commit/6e2a139c121cfea701228f40723cb85cbb9ca22e))
+
+
+### Build
+
+* **deps:** :arrow_up: upgrade dependencies ([67d38a4](https://github.com/velenyx/eslint-plugin-codemuse/commit/67d38a4b24b37d90a741f6c5667029a409ef2c6c))
+
 ## [0.1.1](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.1.0...v0.1.1) (2023-09-09)
 
 
