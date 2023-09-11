@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.4](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.3...v0.3.4) (2023-09-11)
+
+
+### Bug Fixes
+
+* **import:** :adhesive_bandage: delete required use module for export ([2d73603](https://github.com/velenyx/eslint-plugin-codemuse/commit/2d736034bd781df9f4b04ba0f808854c2cc74d78))
+
 ## [0.3.3](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.2...v0.3.3) (2023-09-11)
 
 
