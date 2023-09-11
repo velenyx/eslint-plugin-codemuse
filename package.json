@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-codemuse",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A comprehensive linting solution that sweeps your code clean",
   "keywords": [
     "eslint",

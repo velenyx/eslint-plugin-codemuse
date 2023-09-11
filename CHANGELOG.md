@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.0...v0.3.1) (2023-09-11)
+
+
+### Bug Fixes
+
+* **react:** :adhesive_bandage: now not required all props has default value ([918d3de](https://github.com/velenyx/eslint-plugin-codemuse/commit/918d3de40e1420144c8741ff21b1e610aecc12f7))
+
 ## [0.3.0](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.2.0...v0.3.0) (2023-09-11)
 
 
