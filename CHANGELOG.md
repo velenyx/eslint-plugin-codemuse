@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.2.0...v0.3.0) (2023-09-11)
+
+
+### Features
+
+* :sparkles: add airbnb configuration ([53e979a](https://github.com/velenyx/eslint-plugin-codemuse/commit/53e979a679eea13f113218b632a02adb28d86f70))
+
 ## [0.2.0](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.1.3...v0.2.0) (2023-09-09)
 
 
