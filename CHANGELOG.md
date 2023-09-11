@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.1...v0.3.2) (2023-09-11)
+
+
+### Bug Fixes
+
+* **react:** :adhesive_bandage: not needs named functions ([4429c7f](https://github.com/velenyx/eslint-plugin-codemuse/commit/4429c7f7fe32525bda850b158bcf505d7dc667b8))
+
 ## [0.3.1](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.0...v0.3.1) (2023-09-11)
 
 
