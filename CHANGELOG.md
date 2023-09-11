@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.3](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.2...v0.3.3) (2023-09-11)
+
+
+### Bug Fixes
+
+* **typescript:** :adhesive_bandage: delete unnecessary regex for check types ([e538287](https://github.com/velenyx/eslint-plugin-codemuse/commit/e538287c6ab0e04f63c0407ce5e4e0008f446248))
+
 ## [0.3.2](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.1...v0.3.2) (2023-09-11)
 
 
