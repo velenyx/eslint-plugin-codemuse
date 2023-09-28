@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.5](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.4...v0.3.5) (2023-09-28)
+
+
+### Bug Fixes
+
+* :ambulance: fix unicorn for work with react ([24fdd0f](https://github.com/velenyx/eslint-plugin-codemuse/commit/24fdd0fbd90946ece9ee44dcdd6706d0d1f90493))
+
 ## [0.3.4](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.3...v0.3.4) (2023-09-11)
 
 
