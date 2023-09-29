@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.7](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.6...v0.3.7) (2023-09-29)
+
+
+### Bug Fixes
+
+* :ambulance: error with import overrides ([c52701a](https://github.com/velenyx/eslint-plugin-codemuse/commit/c52701aa2f2a1bb46d4724e985b55a0262340601))
+
 ## [0.3.6](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.5...v0.3.6) (2023-09-28)
 
 
