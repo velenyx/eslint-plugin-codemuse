@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.9](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.8...v0.3.9) (2023-09-29)
+
+
+### Bug Fixes
+
+* :ambulance: ([9f2e676](https://github.com/velenyx/eslint-plugin-codemuse/commit/9f2e676d46c25916fb0d325332b6af8fd631fe78))
+
 ## [0.3.8](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.7...v0.3.8) (2023-09-29)
 
 
