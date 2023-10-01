@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.17](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.16...v0.3.17) (2023-10-01)
+
+
+### Bug Fixes
+
+* :ambulance: no shadow ([7de9551](https://github.com/velenyx/eslint-plugin-codemuse/commit/7de9551338ab2368addd680375fdbe7e4eea57b4))
+
 ## [0.3.16](https://github.com/velenyx/eslint-plugin-codemuse/compare/v0.3.15...v0.3.16) (2023-09-29)
 
 
